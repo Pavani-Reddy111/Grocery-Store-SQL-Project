@@ -37,4 +37,4 @@ To model a relational database system for a grocery store and perform business-o
 4. Execute any SQL file from `queries/` to get results.
 
 ## 👨‍💻 Author
-[Your Name](https://github.com/yourusername)
+[Your Name](https://github.com/Pavani-Reddy111)
