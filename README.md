@@ -17,7 +17,7 @@ To model a relational database system for a grocery store and perform business-o
 ## ⚙️ Technologies Used
 - SQL (MySQL / PostgreSQL / SQLite)
 - DBMS: [Mention if you used MySQL, PostgreSQL, etc.]
-- ERD Tools: [Optional – dbdiagram.io / Lucidchart]
+- ERD Tools: [Optional – dbdiagram.io]
 
 ## 📈 Sample Queries
 - Top 5 products by sales
